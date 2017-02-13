@@ -154,7 +154,6 @@ public class RecurringPaymentPlan
         userDefinedFields = value;
     }
 
-
     private String softDescriptor = new String();
     public String getSoftDescriptor() {
         return softDescriptor;
@@ -174,3 +173,5 @@ public class RecurringPaymentPlan
     }
 
 }
+
+
